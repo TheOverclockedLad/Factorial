@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial.Tests", "Factorial.Tests\Factorial.Tests.csproj", "{E408C65C-09B5-4D7F-B788-FB7E9B39C477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial.CLI", "Factorial.CLI\Factorial.CLI.csproj", "{05E658FC-90F3-41FB-912F-9C927650A506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E408C65C-09B5-4D7F-B788-FB7E9B39C477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E408C65C-09B5-4D7F-B788-FB7E9B39C477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E408C65C-09B5-4D7F-B788-FB7E9B39C477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E408C65C-09B5-4D7F-B788-FB7E9B39C477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E658FC-90F3-41FB-912F-9C927650A506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E658FC-90F3-41FB-912F-9C927650A506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E658FC-90F3-41FB-912F-9C927650A506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E658FC-90F3-41FB-912F-9C927650A506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCB721A-8170-4049-A44D-63DAB674EB51}
+	EndGlobalSection
+EndGlobal
